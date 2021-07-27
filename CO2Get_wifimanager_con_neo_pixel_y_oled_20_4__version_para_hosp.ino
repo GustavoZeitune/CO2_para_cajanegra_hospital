@@ -313,7 +313,7 @@ void loop()
           {
 
             //luces de estado de conexion
-           /*         if (WiFi.status()== 0 )
+                    if (WiFi.status()== 0 )
                   {
                        pixels.setPixelColor(0, pixels.Color(0,0,0)); // Moderately bright green color.
                      
@@ -338,13 +338,13 @@ void loop()
                      pixels.show(); // This sends the updated pixel color to the hardware.  
                   }
                   
-               */
+               /*
 
               //anulando luces en version de hospital
                pixels.setPixelColor(0, pixels.Color(0,0,0)); // Moderately bright green color.
                      
                pixels.show(); // This sends the updated pixel color to the hardware.  
-          
+          */
           }
          
 

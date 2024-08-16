@@ -26,6 +26,8 @@
 
 // Se suma la el RSSI (potencia de señal de wifi) como 4to parámetro
 
+//  hago un cambio para jugar con git
+
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
 
